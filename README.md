@@ -119,8 +119,9 @@ gunicorn poets_canvas_backend.wsgi:application
 
 **Ravilesh Kashyap**
 
-* GitHub: [https://github.com/ravi-rkk](https://github.com/ravi-rkk)
-* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
+* 🌐 Portfolio: [https://ravileshportfolio.netlify.app/](https://ravileshportfolio.netlify.app/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/ka-ra/](https://www.linkedin.com/in/ka-ra/)
+* 🧑‍💻 GitHub: [https://github.com/ravi-rkk](https://github.com/ravi-rkk)
 
 ---
 
